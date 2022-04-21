@@ -13,20 +13,20 @@ body {
 }
 
 a {
-  color: #0bc;
+  color: rgb(204, 0, 0);
   text-decoration: none;
 }
 
 #a {
-  color: #0f0;
+  color: rgb(240, 240, 240);
 }
 
 #c {
-  color: #0bc;
+  color: rgb(204, 0, 0);
 }
 
 #b {
-  color: #ff0096;
+  color: #949494;
 }
 
 #k {
@@ -39,10 +39,10 @@ a {
 
 @keyframes change {
   0% {
-    color: #0f0;
+    color: rgb(240, 240, 240);
   }
   50% {
-    color: #0f0;
+    color: rgb(232, 232, 232);
   }
   99% {
     color: black;
